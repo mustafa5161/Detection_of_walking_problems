@@ -1,1 +1,2 @@
 # Detection_of_walking_problems
+Fikir yapay zeka yardımıyla kullanıcının yürüme videosunu bir arayüzden yükleyip ortaya çıkan verilerle nörolojik,kas-iskelet ve eklem sorularını tespit etmeye çalışmak.
